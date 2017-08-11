@@ -1,0 +1,12 @@
+{
+	"name": "farmer/iroute",
+	"description": "php简单路由",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.3"
+	},
+	
+	"autoload": {
+		"psr-4": {"Farmer\\Iroute\\": ""}
+	}
+}
